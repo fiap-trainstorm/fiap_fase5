@@ -60,7 +60,9 @@ Esse material serve como *evidência* dos cenários incomuns de rendimento e pod
 A etapa de modelagem mostrou que algoritmos de ensemble (como Random Forest e Gradient Boosting) apresentaram melhor desempenho, com maior capacidade de capturar relações não lineares entre clima, solo e rendimento.  
 O modelo vencedor foi salvo em .joblib para servir como *ferramenta de apoio à decisão* para a fazenda.  
 
-## 🎥 Demonstração em Vídeo
+## 🎥 Demonstrações em Vídeo (em ordem)
+➡ [Link para o vídeo no YouTube](https://youtu.be/BuuzKaYh6yI) (modo não listado)
+➡ [Link para o vídeo no YouTube](https://youtu.be/8ZvZNoZpl7E) (modo não listado)
 ➡ [Link para o vídeo no YouTube](placeholder) (modo não listado)
 
 ## Conclusões
