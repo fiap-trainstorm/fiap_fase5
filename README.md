@@ -63,7 +63,7 @@ O modelo vencedor foi salvo em .joblib para servir como *ferramenta de apoio à 
 ## 🎥 Demonstrações em Vídeo (em ordem)
 ➡ [Link para o vídeo no YouTube](https://youtu.be/BuuzKaYh6yI) (modo não listado)
 ➡ [Link para o vídeo no YouTube](https://youtu.be/8ZvZNoZpl7E) (modo não listado)
-➡ [Link para o vídeo no YouTube](placeholder) (modo não listado)
+
 
 ## Conclusões
 - Foram identificadas *tendências claras* nos rendimentos com base em clima e solo.  
